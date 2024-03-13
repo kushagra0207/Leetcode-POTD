@@ -1,6 +1,6 @@
 13-03-2024
 
-
+Easy Question
   2485. Find the Pivot Integer
 Solved
 Easy
